@@ -102,9 +102,9 @@ Aplikasi ini menggunakan pola arsitektur **MVC (Model - View - Controller)**:
 
 ---
 
-## 👤 Developer
+## 👤 Mahasiswa
 
 **Nama:** Rian Saputra  
-**Prodi:** D4 Teknik Informatika  
-**Kampus:** Politeknik Elektronika Negeri Surabaya (PENS)  
+**Kelas:** D3 Teknik Informatika B  
+**NRP:** 3125500045  
 **Mata Kuliah:** Workshop Pemrograman Framework  
