@@ -1,8 +1,8 @@
-# 📚 App Perpustakaan Digital Kampus
+#  App Perpustakaan Digital Kampus
 
 Aplikasi web untuk mengelola sistem perpustakaan digital kampus, dibangun menggunakan **Laravel 12** sebagai bagian dari mata kuliah Workshop Pemrograman Framework - Semester 3 PENS.
 
-## 📖 Tentang Aplikasi
+##  Tentang Aplikasi
 
 **App Perpustakaan** adalah sistem manajemen perpustakaan berbasis web yang digunakan oleh petugas/admin untuk mengelola:
 - Data buku (judul, pengarang, stok, kategori)
@@ -13,7 +13,7 @@ Aplikasi ini dikembangkan secara bertahap setiap pertemuan, mulai dari setup awa
 
 ---
 
-## 🚀 Cara Menjalankan Project Secara Lokal
+##  Cara Menjalankan Project Secara Lokal
 
 ### Prasyarat
 - PHP >= 8.2
@@ -70,7 +70,7 @@ Aplikasi ini dikembangkan secara bertahap setiap pertemuan, mulai dari setup awa
 
 ---
 
-## 🏗️ Arsitektur MVC
+##  Arsitektur MVC
 
 Aplikasi ini menggunakan pola arsitektur **MVC (Model - View - Controller)**:
 
@@ -82,27 +82,7 @@ Aplikasi ini menggunakan pola arsitektur **MVC (Model - View - Controller)**:
 
 ---
 
-## 📁 Struktur Branch
-
-| Branch | Fungsi |
-|--------|--------|
-| `main` | Kode stabil di setiap checkpoint pertemuan |
-| `dev`  | Branch aktif pengembangan harian |
-
----
-
-## 🗂️ Progress Pertemuan
-
-| Pertemuan | Topik | Status |
-|-----------|-------|--------|
-| P-1 | Setup project Laravel 12 & GitHub | ✅ Done |
-| P-2 | Routing & Controller | 🔜 |
-| P-3 | Blade Template & View | 🔜 |
-| P-4 | dst... | 🔜 |
-
----
-
-## 👤 Mahasiswa
+##  Mahasiswa
 
 **Nama:** Rian Saputra  
 **Kelas:** D3 Teknik Informatika B  
