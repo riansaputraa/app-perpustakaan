@@ -82,26 +82,6 @@ Aplikasi ini menggunakan pola arsitektur **MVC (Model - View - Controller)**:
 
 ---
 
-##  Struktur Branch
-
-| Branch | Fungsi |
-|--------|--------|
-| `main` | Kode stabil di setiap checkpoint pertemuan |
-| `dev`  | Branch aktif pengembangan harian |
-
----
-
-##  Progress Pertemuan
-
-| Pertemuan | Topik | Status |
-|-----------|-------|--------|
-| P-1 | Setup project Laravel 12 & GitHub | ✅ Done |
-| P-2 | Routing & Controller | 🔜 |
-| P-3 | Blade Template & View | 🔜 |
-| P-4 | dst... | 🔜 |
-
----
-
 ##  Mahasiswa
 
 **Nama:** Rian Saputra  
