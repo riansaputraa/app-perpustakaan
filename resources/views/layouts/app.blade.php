@@ -21,6 +21,12 @@
         input, select, textarea { width: 100%; padding: 6px; margin-top: 4px; }
         .error { color: #b91c1c; font-size: 14px; margin-top: 4px; }
         footer { text-align: center; padding: 20px; color: #6b7280; font-size: 14px; border-top: 1px solid #e5e7eb; margin-top: 40px; }
+        /* Pagination Styling */
+        nav[role="navigation"] { margin-top: 20px; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px; background: transparent; padding: 0; }
+        nav[role="navigation"] svg { width: 16px; height: 16px; display: inline-block; vertical-align: middle; fill: currentColor; }
+        nav[role="navigation"] a, nav[role="navigation"] span { padding: 6px 12px; border: 1px solid #d1d5db; border-radius: 4px; color: #374151; text-decoration: none; font-size: 14px; }
+        nav[role="navigation"] span[aria-current="page"] span { background: #2563eb; color: #fff; border-color: #2563eb; font-weight: bold; }
+        nav[role="navigation"] a:hover { background: #f3f4f6; }
     </style>
 </head>
 <body>
