@@ -18,7 +18,7 @@
 </head>
 <body>
     <div class="login-box">
-        <h1>📚 Login Perpustakaan</h1>
+        <h1>Login Perpustakaan</h1>
 
         @if (session('success'))
             <div class="alert-success">{{ session('success') }}</div>
